@@ -2,7 +2,7 @@
 
 Estes dois Pythons foram desenvolvidos e utilizados exclusivamente para estudo no bootcamp Cybersecurity Santander na plataforma Dio.
 
-Todo o desenvolvimento e testes foram utilizados ambientes controlados para que não tenha riscos.
+Todo o desenvolvimento e testes foram utilizados ambientes controlados para que não houvesse riscos.
 
 Para entregar o projeto é necessário que o mesmo esteja em repositório git com URL pública para que o professor possa avaliar.
 
