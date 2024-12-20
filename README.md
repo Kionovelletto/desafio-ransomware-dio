@@ -2,11 +2,13 @@
 
 Estes dois Pythons foram desenvolvidos e utilizados exclusivamente para estudo no bootcamp Cybersecurity Santander na plataforma Dio.
 
+Todos o desenvolvimento e testes foram utilizados ambientes controlados para que não tenha riscos.
+
 Para entregar o projeto é necessário que o mesmo esteja em repositório git com URL pública para que o professor possa avaliar.
 
 🚨 Não utilize estes códigos, não me responsabilizo pois quaisquer ações.
 
-* [![Python][python.org]][Python-url]
+
 
 ## Objetivo do projeto
 
